@@ -25,7 +25,6 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -39,20 +38,16 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
         <!-- debugging -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
-
     </dependencies>
 
     <build>
-
         <finalName>spring-boot-web</finalName>
-
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -67,9 +62,11 @@
                     <target>${java.version}</target>
                 </configuration>
             </plugin>
-
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>4.0.0.4121</version> <!-- Explicit plugin version -->
+            </plugin>
         </plugins>
     </build>
-
-
 </project>
