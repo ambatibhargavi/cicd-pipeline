@@ -1,6 +1,6 @@
 # Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
 
-![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
+![ScreenRecording2025-01-15at14 04 33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2978433e-fa45-400c-ba81-e23419f08adb)
 
 
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
@@ -60,3 +60,13 @@ Steps:
        7.2 Monitor the pipeline stages and fix any issues that arise.
 
 This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Java application, from code checkout to production deployment, using popular tools like SonarQube, Argo CD, Helm, and Kubernetes.
+![Screenshot 2025-01-16 at 18 59 05](https://github.com/user-attachments/assets/f86e9851-61eb-4a0f-a8a8-16287c892fc0)
+![Screenshot 2025-01-26 at 15 29 44](https://github.com/user-attachments/assets/e1d458a7-7f14-4ab5-9f50-2ea34be54e65)
+<img width="1068" alt="Screenshot 2025-01-26 at 15 37 28" src="https://github.com/user-attachments/assets/820e1f6f-af49-4365-9093-c42e32ff0ab6"/>
+<img width="1420" alt="Screenshot 2025-01-26 at 15 34 47" src="https://github.com/user-attachments/assets/0936d001-0013-422c-b0d6-230ba7b9e8bb"/>
+![Screenshot 2025-01-27 at 17 17 59](https://github.com/user-attachments/assets/b5b16565-3f90-47b6-9413-982dfadd97a3)
+<img width="555" alt="Screenshot 2025-01-27 at 17 17 14" src="https://github.com/user-attachments/assets/2c65bd67-ddc7-47ea-a656-23327252a7f2" />
+<img width="1427" alt="Screenshot 2025-01-27 at 17 10 48" src="https://github.com/user-attachments/assets/57fd17fc-ac17-4cba-b2dd-da80025fc035"/>
+
+
+
